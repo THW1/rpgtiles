@@ -141,3 +141,7 @@ python3 -m pytest -q test_rpgtiles.py
 
 `CONTEXT.md` maps the files and their relationships; design decisions are recorded in
 the context headers at the top of `rpgtiles.py` and `rpgscene.py`.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
